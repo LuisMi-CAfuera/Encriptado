@@ -15,7 +15,7 @@ fun main(){
 fun control(text : String):String{
     val abc="abcdefghijklmnñopqrstuvwxyz"
     var cifrado = ""
-    val rot = 13
+    val rot = 18
 
     text.forEach {
         if(it.isLetter()){
