@@ -11,7 +11,7 @@ fun main(){
     println(cifrado)
 
 }
-
+//aa
 fun control(text : String):String{
     val abc="abcdefghijklmnñopqrstuvwxyz"
     var cifrado = ""
