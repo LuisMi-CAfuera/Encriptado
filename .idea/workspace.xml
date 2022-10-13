@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c03caf37-71e4-4601-b5b3-bac570ada825" name="Changes" comment="Commit echo">
+    <list default="true" id="c03caf37-71e4-4601-b5b3-bac570ada825" name="Changes" comment="Commit echo2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Encriptar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encriptar.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +32,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/AlumnoM/Documents/DAM2-PMDM/Encriptado"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665482401514</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit echo2">
+      <created>1665482471000</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665482471000</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit echo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit echo" />
+    <MESSAGE value="Commit echo2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit echo2" />
   </component>
 </project>
