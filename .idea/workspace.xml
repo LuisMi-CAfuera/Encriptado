@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c03caf37-71e4-4601-b5b3-bac570ada825" name="Changes" comment="Commit echo2">
+    <list default="true" id="c03caf37-71e4-4601-b5b3-bac570ada825" name="Changes" comment="Commit echo3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Encriptar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encriptar.kt" afterDir="false" />
     </list>
@@ -29,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/AlumnoM/Documents/DAM2-PMDM/Encriptado"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AlumnoM/Documents/DAM2-PMDM/Encriptado&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665482471000</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit echo3">
+      <created>1665659713231</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665659713231</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +97,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit echo" />
     <MESSAGE value="Commit echo2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit echo2" />
+    <MESSAGE value="Commit echo3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit echo3" />
   </component>
 </project>

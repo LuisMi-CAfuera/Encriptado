@@ -23,7 +23,7 @@ fun control(text : String):String{
                 cifrado += abc[abc.indexOf(it)+rot]
             }else{
                 if (abc.indexOf(it)+rot>=27){
-                    cifrado += abc[(abc.indexOf(it)+rot)-(27-abc.indexOf(it))]
+                    cifrado += abc[abc.indexOf(it)+rot-27]
                 }
             }
         }
